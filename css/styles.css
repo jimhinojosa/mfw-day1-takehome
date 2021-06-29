@@ -1,3 +1,41 @@
 body{
-    background-color: blue;
+    background-color: linear-gradient ();
+    margin: 0;
+}
+header{
+    padding-top: 18vh;
+    padding-left: 48vw;
+    padding-bottom: 27vh;
+}
+h1{
+    color: white;
+}
+article{
+    background-color: white;
+    padding-top: 11vh;
+    padding-bottom: 11vh;
+}
+.firsttitle{
+    color: darkblue;
+    padding-left: 15vw;
+} 
+h3{
+  color: darkblue;  
+}
+.firstpara{
+    padding-left: 15vw;
+    padding-right: 15vw;
+}
+.secondtitle{
+    padding-left: 75vw;
+    color: darkblue;
+}
+.secondpara{
+    padding-left: 15vw;
+    padding-right: 15vw;
+}
+footer{
+    height: 6vh;
+    color: white;
+    padding-left: 48vw;
 }
