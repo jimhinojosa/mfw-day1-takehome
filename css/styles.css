@@ -4,6 +4,7 @@ body{
 }
 header{
     height: 20vh;
+    width: 100%;
     padding-top: 18vh;
     padding-left: 44vw;
     padding-bottom: 27vh;
